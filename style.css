@@ -4,6 +4,7 @@
 #banner {
     display: block;
     margin: auto; 
+    border: 5px solid #000000; 
 }
 #buttons {
     display: block;
