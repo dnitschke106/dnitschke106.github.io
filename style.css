@@ -3,6 +3,7 @@
       background-size: 800px 600px;
       background-size: contain;
       background-repeat: no-repeat; 
+      background-position: center;
       text-align:center;
 }  
 #banner {
