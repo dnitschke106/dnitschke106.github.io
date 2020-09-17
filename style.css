@@ -10,4 +10,7 @@
     display: block;
     margin: auto; 
 }
- 
+h1 {
+    position: relative;
+    margin: auto;
+}
