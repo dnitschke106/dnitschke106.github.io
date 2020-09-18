@@ -11,8 +11,7 @@
     margin: auto; 
     border: 5px solid #000000; 
 }
-#buttons {
-    display: block;
+.center {
     margin-left: auto; 
     margin-right: auto;
 }
@@ -31,3 +30,4 @@ h1 {
 table {
    text-align: center;
 }
+
