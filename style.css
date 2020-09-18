@@ -14,8 +14,7 @@
 .center {
     margin-left: auto; 
     margin-right: auto;
-    margin-top: 30px;
-    border-spacing: 10px;
+    border-spacing: 100px 20px;
 }
 .bottomphotos {
     margin-left: auto;
