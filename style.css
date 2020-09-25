@@ -2,7 +2,7 @@
       background-image: url("background.jpg"), url("background1.jpg");
       background-size: 800px 600px;
       background-size: contain, cover;
-      background-repeat: no-repeat, no-repeat; 
+      background-repeat: repeat, no-repeat; 
       background-position: center;
       text-align:center;
 }  
