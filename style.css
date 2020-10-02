@@ -1,6 +1,6 @@
  body {
       background-image: url("background.jpg"), url("background1.jpg");
-      background-size: 1140px 1000px, cover;
+      background-size: 1124px 1000px, cover;
       background-repeat: no-repeat, no-repeat; 
       background-position: center; 
       text-align:center;
